@@ -1,6 +1,3 @@
-
-
-preview
 <h1 align="center">Hi 👋, I'm AMR KHALIL</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
